@@ -1,3 +1,3 @@
 name = 'Dydda'
-
-print(name[0:2])
+#len() function tells us the length of a string
+print(len(name))
